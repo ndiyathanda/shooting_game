@@ -1,2 +1,4 @@
-# shooting_game
-game i make in PyGame
+# Shooting Game 
+My first game written in PyGame
+
+# Screenshots

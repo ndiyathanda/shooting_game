@@ -24,4 +24,6 @@ Barricades - have hp, defend from melee monsters, doesnt protect from projectile
 <br>
 <br>
 Reworked Graphics and background
+<br>
+and maaany improvements.
 

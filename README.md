@@ -10,4 +10,18 @@ My first game written in PyGame
 mage who shots
 and tank with 6HP 
 
+# BIG update soon
+
+Shop with guns barricades and grenades
+<br>
+RPG - Aoe dmg small attack speed
+<br>
+<br>
+LKM - Full Auto higher projectile limit
+<br>
+<br>
+Grenades - Throw, aoe dmg
+<br>
+Barricades
+
 

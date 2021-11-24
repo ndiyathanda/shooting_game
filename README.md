@@ -16,13 +16,12 @@ Shop with guns barricades and grenades
 <br>
 RPG - Aoe dmg small attack speed
 <br>
-<br>
 LKM - Full Auto higher projectile limit
-<br>
 <br>
 Grenades - Throw, aoe dmg
 <br> 
 Barricades - have hp, defend from melee monsters, doesnt protect from projectiles
 <br>
-Reworked Graphics
+<br>
+Reworked Graphics and background
 

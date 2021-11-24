@@ -23,7 +23,7 @@ Grenades - Throw, aoe dmg
 Barricades - have hp, defend from melee monsters, doesnt protect from projectiles
 <br>
 <br>
-Reworked Graphics and background
+Reworked Graphics, background etc.
 <br>
 and maaany improvements.
 

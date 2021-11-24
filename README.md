@@ -21,7 +21,8 @@ LKM - Full Auto higher projectile limit
 <br>
 <br>
 Grenades - Throw, aoe dmg
+<br> 
+Barricades - have hp, defend from melee monsters, doesnt protect from projectiles
 <br>
-Barricades
-
+Reworked Graphics
 

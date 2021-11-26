@@ -1,5 +1,5 @@
  # Shooting Game 
-My first game written in PyGame
+My first game written in Python using Pygame
 
 # Screenshots
 ![](ss.png)

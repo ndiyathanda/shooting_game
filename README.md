@@ -1,4 +1,4 @@
-# Shooting Game 
+ # Shooting Game 
 My first game written in PyGame
 
 # Screenshots
@@ -10,20 +10,13 @@ My first game written in PyGame
 mage who shots
 and tank with 6HP 
 
-# BIG update soon
-
-Shop with guns barricades and grenades
+# VER0.5 Notes
 <br>
-RPG - Aoe dmg small attack speed
+- Added shop with 2 different rifles
 <br>
-LKM - Full Auto higher projectile limit
+- Highest score and coins display in menu
 <br>
-Grenades - Throw, aoe dmg
-<br> 
-Barricades - have hp, defend from melee monsters, doesnt protect from projectiles
+- Now you can choose rifle from menu
 <br>
-<br>
-Reworked Graphics, background etc.
-<br>
-maany improvements and bugfixes
+- fixed a lot of bugs 
 

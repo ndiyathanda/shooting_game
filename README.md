@@ -19,6 +19,7 @@ and tank with 6HP
 - Now you can choose rifle from menu
 <br>
 - fixed a lot of bugs 
+<br>
 # VER0.5.2 Notes
 - Nerfed mages from shoot_ratio 200 to 250
 <br>

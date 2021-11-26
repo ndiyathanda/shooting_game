@@ -19,4 +19,13 @@ and tank with 6HP
 - Now you can choose rifle from menu
 <br>
 - fixed a lot of bugs 
-
+# VER0.5.2 Notes
+- Nerfed mages from shoot_ratio 200 to 250
+<br>
+- Buffed assault rifle from 0.12 ms shot cooldown to 0.11
+<br>
+- Added random heart(HP) spawning chance: 1 to 3000 after taking HP gets 15 seconds cooldown
+<br>
+- And something i dont remember
+<br>
+- And ofc some bugfix

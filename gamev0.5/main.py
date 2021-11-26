@@ -273,8 +273,8 @@ class Game():
             self.save_to_data_file(self.data[0], self.coin_c, "1", self.data[3], self.data[4])
             self.__init__()
     def buy_par(self):
-        self.coin_c = float(self.data[1] and not self.data[3] == "1")
-        if self.coin_c >= 300:
+        self.coin_c = float(self.data[1])
+        if self.coin_c >= 300 and not self.data[3] == "1":
             self.coin_c -= 300
             print(self.coin_c)
             self.save_to_data_file(self.data[0], self.coin_c, self.data[2], "1", self.data[4])

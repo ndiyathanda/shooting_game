@@ -22,12 +22,12 @@ and tank with 6HP
 <br>
 
 # VER0.5.2 Notes
-- Nerfed mages from shoot_ratio 200 to 250
+-Nerfed mages from shoot_ratio 200 to 250
 <br>
-- Buffed assault rifle from 0.12 ms shot cooldown to 0.11
+-Buffed assault rifle from 0.12 ms shot cooldown to 0.11
 <br>
-- Added random heart(HP) spawning chance: 1 to 3000 after taking HP gets 15 seconds cooldown
+-Added random heart(HP) spawning chance: 1 to 3000 after taking HP gets 15 seconds cooldown
 <br>
-- And something i dont remember
+-And something i dont remember
 <br>
-- And ofc some bugfix
+-And ofc some bugfix

@@ -22,7 +22,6 @@ and tank with 6HP
 <br>
 
 # VER0.5.2 Notes
-
 - Nerfed mages from shoot_ratio 200 to 250
 <br>
 - Buffed assault rifle from 0.12 ms shot cooldown to 0.11

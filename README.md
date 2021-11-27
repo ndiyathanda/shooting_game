@@ -22,7 +22,7 @@ and tank with 6HP
 <br>
 
 # VER0.5.2 Notes
--Nerfed mages from shoot_ratio 200 to 250
+-Nerfed mages from shoot_ratio 200 to 300
 <br>
 -Buffed assault rifle from 0.12 ms shot cooldown to 0.11
 <br>
@@ -31,3 +31,11 @@ and tank with 6HP
 -And something i dont remember
 <br>
 -And ofc some bugfix
+
+# VER0.5.3 Notes
+- Adjusted mages shoot cooldown from 0 sec to 0.4 sec
+<br>
+- Added kevlars which protects from mages. 100 coins per kevlar max 3 per run
+<br>
+- Nerfed piercing rifle from 3 max projectiles to 2
+

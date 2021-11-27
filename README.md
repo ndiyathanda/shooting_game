@@ -12,13 +12,13 @@ and tank with 6HP
 
 # VER0.5 Notes
 <br>
-- Added shop with 2 different rifles
+-Added shop with 2 different rifles
 <br>
-- Highest score and coins display in menu
+-Highest score and coins display in menu
 <br>
-- Now you can choose rifle from menu
+-Now you can choose rifle from menu
 <br>
-- fixed a lot of bugs 
+-fixed a lot of bugs 
 <br>
 
 # VER0.5.2 Notes
@@ -33,9 +33,9 @@ and tank with 6HP
 -And ofc some bugfix
 
 # VER0.5.3 Notes
-- Adjusted mages shoot cooldown from 0 sec to 0.4 sec
+-Adjusted mages shoot cooldown from 0 sec to 0.4 sec
 <br>
-- Added kevlars which protects from mages. 100 coins per kevlar max 3 per run
+-Added kevlars which protects from mages. 100 coins per kevlar max 3 per run
 <br>
-- Nerfed piercing rifle from 3 max projectiles to 2
+-Nerfed piercing rifle from 3 max projectiles to 2
 

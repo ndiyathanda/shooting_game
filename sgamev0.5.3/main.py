@@ -1,3 +1,6 @@
+#Game by ndiyathanda VER 0.5.3
+#https://github.com/ndiyathanda/shooting_game
+
 import pygame, os, sys, random, time
 from CONST import *
 from player import Player
@@ -35,6 +38,7 @@ class Game():
         self.dt = 1
         self.number_of_enemies = 0
         self.font = pygame.font.Font("TF2.ttf", 20)
+        self.font2 = pygame.font.Font("TF2.ttf", 32)
         self.read_data_file()
         self.game()
 
@@ -283,8 +287,10 @@ class Game():
         self.aak_chosen = False
         while True:
             self.draw_screen2.blit(self.textures["menu_bckg"], (0, 0))
-            self.kurwa = self.font.render("Highest Score: " + str(self.data[0]) + " Coins: " + str(self.data[1] + " KEVLARS: ") + str(self.data[4]) , True, (0, 0, 0))
-            self.draw_screen2.blit(self.kurwa, (600, 100))
+            self.coins = float(self.data[1])
+            self.coins = round(self.coins)
+            self.kurwa = self.font2.render("Highest Score: " + str(self.data[0]) + " Coins: " + str(self.coins) + " KEVLARS: " + str(self.data[4]) , True, (0, 0, 0))
+            self.draw_screen2.blit(self.kurwa, (380, 100))
             if self.pause  == True:
                 self.run = False
             if self.start_button.draw(self.draw_screen2):
@@ -387,9 +393,9 @@ class Game():
         self.buy_button2 = button.Button(900,500, self.buy_img, 0.8)
         self.buy_button3 = button.Button(900, 600, self.buy_img, 0.8)
         self.start_button = button.Button(530, 200, self.start_img, 0.8)
-        self.exit_button = button.Button(530, 450, self.exit_img, 0.8)
+        self.exit_button = button.Button(540, 390, self.exit_img, 0.8)
         self.exit_button2 = button.Button(1050, 0, self.exit_img, 0.8)
-        self.shop_button = button.Button(530, 350, self.shop_img, 0.8)
+        self.shop_button = button.Button(558, 300, self.shop_img, 0.8)
         self.run = False
         self.boss_hp = 6
         self.tank = []

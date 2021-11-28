@@ -38,4 +38,6 @@ and tank with 6HP
 -Added kevlars which protects from mages. 100 coins per kevlar max 3 per run
 <br>
 -Nerfed piercing rifle from 3 max projectiles to 2
+<br>
+-Menu visual "rework"
 
